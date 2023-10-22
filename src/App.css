@@ -99,3 +99,12 @@ body {
   align-items: flex-end;
   height: auto;
 }
+
+
+@media screen and (max-width: 768px) {
+  .todo-main{
+    max-width:  200px;
+    font-size: 15px;
+  }
+
+}
